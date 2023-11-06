@@ -1,0 +1,33 @@
+/*Add a background color to the naigation bar*/
+
+.topnav  {
+    background-color: lightsteelblue;
+    overflow: hidden;
+    display: block;
+
+}
+
+/*Style the links inside the navigation bar*/
+
+.topnav a          {
+    color: darkslategrey; 
+    text-decoration-color: black;
+    font-size: 17px;
+    font-family:'Courier New', Courier, monospace;
+    text-align: center;
+    padding: 10px 10px 10px 10px;
+
+}
+
+/*Header Styling*/
+
+.h2   {
+display:flex;
+
+}
+
+.grid-container  {
+    display: grid;
+    grid-template-columns: ;
+}
+}
