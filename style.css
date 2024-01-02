@@ -1,0 +1,62 @@
+body {
+    background-color:aliceblue;
+    background-image: url(https://unsplash.com/photos/green-tree-in-black-background-20TjU5nyVUw);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: azure;
+    font-family:fantasy;
+    margin: 0 auto;
+    padding: 0;
+}
+  
+img {
+    width: 40px;
+    height: 60px;
+    margin-bottom: center;
+    background-image: ;
+
+
+}
+
+nav {
+    display: flex;
+    gap: 20 px;
+    list-style: none;
+    margin: 0;
+    padding: 10px 10px 10px 10px;
+    overflow: hidden; 
+    background-color:rgb(195, 219, 239) ;
+}
+
+.active {
+    height: 30px;
+    margin: 0 10px;
+    width: 30px;
+    font-size: 1.5rem;
+
+
+}
+
+nav a {
+    color:sienna;
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 5rem;
+}
+
+main {
+    padding: 10px;
+    color:rgb(201, 157, 104);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    
+}
+
+h1   {
+    color:rgba(172, 235, 141, 0.767) ;
+
+}
+
